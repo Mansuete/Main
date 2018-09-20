@@ -1,0 +1,4 @@
+Log file created at: 2018/09/20 21:52:12
+Running on machine: DESKTOP-UQ3NPA1
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+W0920 21:52:12.957614 10204 check_messages.h:1075] Inconsistent fields size in ThetaMatrix: 1728 vs 0 vs 1728 vs 0;
